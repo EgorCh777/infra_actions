@@ -33,4 +33,7 @@ jobs:
       run: |
         # запуск проверки проекта по flake8
         python -m flake8
+<<<<<<< HEAD
       
+=======
+>>>>>>> fce1f7e0fb95313d3ef6abf2c7f7a3fdc44d61b6
